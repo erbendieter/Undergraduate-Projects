@@ -7,3 +7,5 @@ ITAO 30220 Predictive Analytics: Dog Adoption Modeling
 
 ITAO 30240 Data Exploration and Visualization: Road Accidents in the UK
 <https://public.tableau.com/views/UKRoadAccidents_Final/Story?:embed=y&:display_count=yes>
+
+ITAO 40250 Unstructured Data Analytics: Commercial Success of Movie Releases
